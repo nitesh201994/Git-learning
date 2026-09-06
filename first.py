@@ -1,2 +1,1 @@
-print("Wlcome to MLOPS projects")
-
+a="Wlcome to MLOPS projects"
